@@ -1,6 +1,6 @@
 # REX 9628 Extern Kernel 8
 
-![](https://github.com/DL2DW/REX_9628_Extern_Kernel_8/blob/main/Images/REX 9628 Extern Kernel 8.PDF)
+![](https://github.com/DL2DW/REX_9628_Extern_Kernel_8/blob/main/Images/REX9628.jpg)
 
 
 

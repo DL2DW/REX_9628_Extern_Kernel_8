@@ -85,6 +85,12 @@ The brands are only representative. Comparable components from other manufacture
 
 
 
+## PCB
+
+The PCB can either be ordered directly from [PCBWay](https://www.pcbway.com/project/shareproject/REX_9628_Extern_Kernel_II_8.html), or you can create it yourself from the Gerber files available here.
+
+[![PCBWay](https://www.pcbway.com/project/img/images/frompcbway.png)](https://www.pcbway.com/project/shareproject/REX_9628_Extern_Kernel_II_8.html)
+
 
 
 If you liked my project, I would be very happy about a small coffee donation.
